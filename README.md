@@ -4,11 +4,11 @@ Overview
 ZYLO is an AI-driven chatbot that integrates real-time web search with intelligent response generation using Mistral AI v0.1. Unlike traditional chatbots that rely on static datasets, ZYLO fetches live web data to provide accurate, up-to-date, and structured answers in real-time.
 
 # Features
-AI-Powered Responses – Uses Mistral AI v0.1 for contextual and coherent replies<br>
-Real-Time Web Search – Fetches the latest information using DuckDuckGo API<br>
-Interactive UI – Built with Gradio for a seamless user experience<br>
-Formatted Output – Provides structured, well-organized responses with numbered points and clear paragraph spacing<br>
-Search History Tracking – Maintains a record of previous searches for easy reference<br>
+**AI-Powered Responses** – Uses Mistral AI v0.1 for contextual and coherent replies<br>
+**Real-Time Web Search** – Fetches the latest information using DuckDuckGo API<br>
+**Interactive UI** – Built with Gradio for a seamless user experience<br>
+**Formatted Output** – Provides structured, well-organized responses with numbered points and clear paragraph spacing<br>
+**Search History Tracking** – Maintains a record of previous searches for easy reference<br>
 # Use Cases
 ZYLO is a versatile AI chatbot applicable in multiple domains:
 
@@ -17,10 +17,10 @@ ZYLO is a versatile AI chatbot applicable in multiple domains:
 **Business Intelligence** – Assists in retrieving industry trends and market insights<br>
 **Healthcare & Finance** – Can be adapted for data-driven decision-making in critical domains<br>
 # Tech Stack & Concepts Used
-**Large Language Models (LLMs)** – Implemented Mistral AI v0.1 for AI-generated responses
-**NLP & AI Optimization** – Improved response structuring for clarity and conciseness
-**Hugging Face API** – Used for efficient text generation and processing
-**DuckDuckGo Search API** – Enabled live web search integration
+**Large Language Models (LLMs)** – Implemented Mistral AI v0.1 for AI-generated responses<br>
+**NLP & AI Optimization** – Improved response structuring for clarity and conciseness<br>
+**Hugging Face API** – Used for efficient text generation and processing<br>
+**DuckDuckGo Search API** – Enabled live web search integration<br>
 **Gradio** – Developed a user-friendly chatbot interface<br>
 # Installation & Setup
 Follow these steps to run ZYLO on your local machine:
